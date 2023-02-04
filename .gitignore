@@ -1,6 +1,8 @@
 #VIRTUALENV
 /.venv
 
+
+
 #FRONTEND
 
 # dependencies
@@ -9,7 +11,7 @@
 .pnp.js
 
 # testing
-/coverage
+/frontend/coverage
 
 # next.js
 /frontend/.next
