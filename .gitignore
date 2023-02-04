@@ -1,0 +1,18 @@
+#VIRTUALENV
+/.venv
+
+#FRONTEND
+
+# dependencies
+/frontend/node_modules
+/frontend/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/frontend/.next
+# production
+/frontend/build
+
